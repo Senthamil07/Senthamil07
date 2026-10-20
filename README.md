@@ -1,134 +1,105 @@
+<!--
+SENTHAMIL SELVAN S. | ERP FUNCTIONAL CONSULTANT
+Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08090e,45:8b0000,75:143c70,100:08090e&text=SENTHAMIL%20SELVAN&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ERP%20FUNCTIONAL%20CONSULTANT&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:7f1d1d,70:991b1b,100:f59e0b&height=230&section=header&text=SENTHAMIL%20SELVAN&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=ERP%20FUNCTIONAL%20CONSULTANT%20%7C%20BUSINESS%20%2B%20TECHNOLOGY&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Cinematic banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=EVERY+HERO+HAS+A+STORY;ERP+FUNCTIONAL+CONSULTANT;BUSINESS+%7C+TECHNOLOGY+%7C+INNOVATION;BUILDING+MY+OWN+LEGACY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=Translating+Business+Needs+into+ERP+Solutions;Designing+Workflows.+Testing+Features.+Improving+Processes.;Connecting+Business+Users+with+Development+Teams;Every+Great+System+Starts+with+a+Clear+Requirement." alt="Animated introduction"/>
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b0000)](https://github.com/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Universe-111827?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=991b1b&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🦸 THE ORIGIN STORY
+## 🦸 MY ORIGIN STORY
 
-> *Every great journey begins with a dream. Every great achievement begins with a decision.*
+I'm **Senthamil Selvan S.**, an **ERP Functional Consultant** passionate about understanding business operations and transforming real-world requirements into practical ERP solutions.
 
-Hey, I'm **Senthamil Selvan** — an **ERP Functional Consultant** passionate about business processes, technology, problem-solving, and continuous growth.
+My role connects business users and technical development teams. I work on requirement gathering, process analysis, workflow design, functional prototyping, testing, bug identification, and continuous improvement.
 
-My journey is about understanding how businesses work, identifying challenges, and connecting people, processes, and technology to create meaningful solutions.
+My professional journey combines an engineering background with hands-on experience in administration and ERP functional consulting.
 
-- 🎯 **Current Role:** ERP Functional Consultant
-- 🧩 **Focus:** ERP workflows, business requirements, and process improvement
-- ⚙️ **Interests:** Business analysis, functional documentation, testing, and reporting
-- 🚀 **Mission:** Keep learning, solve real problems, and build a meaningful career
-- 🌌 **Vision:** Turn knowledge and experience into solutions that create value
+> *"Every great system starts with understanding the people who use it."*
 
 ---
 
-## 🎬 MY CINEMATIC JOURNEY
-
-<div align="center">
-
-| Chapter | The Story |
-|:---:|---|
-| **01** | 🎓 **The Beginning** — Building my foundation through education and learning. |
-| **02** | ⚡ **The Discovery** — Exploring the connection between business processes and technology. |
-| **03** | 🛠️ **The Professional Journey** — Developing my capabilities in ERP functional consulting. |
-| **04** | 🌌 **The Next Chapter** — Expanding my expertise, taking on new challenges, and creating impact. |
-
-</div>
-
----
-
-## 💼 PROFESSIONAL EXPERIENCE
-
-### ⚙️ ERP Functional Consulting
-
-- Understanding business requirements and operational workflows.
-- Supporting functional analysis and process documentation.
-- Exploring how ERP solutions align with business objectives.
-- Collaborating across business and technical requirements.
-- Contributing to testing, validation, and continuous improvement.
-
-### 📋 My Experience Timeline
-
-<!-- Add your actual company names, job titles, and employment dates below. -->
-
-- **[Your Current / Most Recent Company]** — ERP Functional Consultant
-- **[Previous Company, if applicable]** — [Your Previous Role]
-- **[Internship / Project, if applicable]** — [Your Role]
-
----
-
-## 🧠 MY SKILL SET
-
-<div align="center">
-
-### Functional Skills
-
-<img src="https://img.shields.io/badge/ERP-Functional%20Consulting-8b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business-Analysis-143c70?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Requirements-Gathering-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Process-Documentation-8b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Testing-UAT-143c70?style=for-the-badge"/>
-
-### Tools & Technologies
-
-<img src="https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database%20Concepts-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github"/>
-
-</div>
-
----
-
-## 🚀 MISSIONS & PROJECTS
-
-<!-- Replace these examples with your actual projects and GitHub repository links. -->
+## 🎬 MY CAREER JOURNEY
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" align="center">
 
-### ⚙️ ERP Workflow
-
-Understanding business workflows, requirements, and process alignment.
-
-**Focus:** ERP · Business Processes
+**2026 — PRESENT**
 
 </td>
-<td width="50%">
+<td>
 
-### 📊 Data & Reporting
+### 🔥 ERP Functional Consultant
+**Meena Fibre Industry Private Limited**
 
-Working with business data, spreadsheets, validation, and reporting.
-
-**Focus:** Excel · Reporting
+- Gather and analyze ERP requirements across seven functional areas.
+- Study existing business processes and translate them into ERP workflows.
+- Coordinate between business users and developers.
+- Create functional prototypes and UI concepts using AI-assisted tools, including Google AI Studio.
+- Coordinate module development and clarify requirements.
+- Perform functional testing and User Acceptance Testing (UAT).
+- Identify bugs, missing fields, validation gaps, and workflow issues.
+- Manage change requests and validate completed functionality.
+- Suggest practical improvements to business processes.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center">
 
-### 📋 Functional Documentation
-
-Organizing requirements, process notes, and functional documentation.
-
-**Focus:** Analysis · Documentation
+**MAY 2024 — SEP 2024**
 
 </td>
-<td width="50%">
+<td>
 
-### 🧪 Testing & Validation
+### ⚡ Admin Executive — Contract
+**Genius HR Tech**
 
-Exploring test scenarios, expected results, and validation processes.
+Client / Work Location: **Vedantu Innovation Private Limited**
 
-**Focus:** Testing · Quality
+- Supported administrative and operational coordination.
+- Maintained records and documentation.
+- Coordinated with internal teams and stakeholders.
+- Supported day-to-day operational requirements.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**2021 — 2024**
+
+</td>
+<td>
+
+### 🎓 Bachelor of Technology
+**Electrical and Electronics Engineering (B.Tech EEE)**
+
+Dr. M.G.R. Educational and Research Institute
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**2018 — 2021**
+
+</td>
+<td>
+
+### 🎓 Diploma
+**Electrical and Electronics Engineering (DEEE)**
+
+T.J.S. Polytechnic College
 
 </td>
 </tr>
@@ -136,44 +107,56 @@ Exploring test scenarios, expected results, and validation processes.
 
 ---
 
-## 📈 GITHUB COMMAND CENTER
+## ⚙️ THE SEVEN ERP DOMAINS
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/01-Production-7f1d1d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Inserts-991b1b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-Painting-b91c1c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Assembly-c2410c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Dispatch-d97706?style=for-the-badge" />
+<img src="https://img.shields.io/badge/06-Store%20%26%20Inventory-92400e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/07-Tender-374151?style=for-the-badge" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=08090e&title_color=E62429&icon_color=43A5FF&text_color=FFFFFF&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=08090e&title_color=E62429&text_color=FFFFFF" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=08090e&ring=E62429&fire=E8BD72&currStreakLabel=43A5FF&sideLabels=FFFFFF&dates=999999" width="90%"/>
-
-</div>
-
----
-
-## 🛡️ THE CODE I LIVE BY
-
-<div align="center">
-
-### "WITH GREAT RESPONSIBILITY COMES GREAT POWER."
-
-*Stay curious. Learn continuously. Solve meaningful problems. Build your own legacy.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b0000,50:143c70,100:e8bd72" width="100%"/>
-
-</div>
+These are the seven functional areas I support through ERP requirement analysis, workflow coordination, and functional validation.
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🧠 MY CORE SKILLS
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/ERP_Functional_Consulting-991b1b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Requirement_Gathering-7f1d1d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business_Process_Analysis-b91c1c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Functional_Requirement_Analysis-c2410c?style=flat-square"/>
+<img src="https://img.shields.io/badge/ERP_Workflow_Design-d97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/Functional_Prototyping-92400e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Developer_Coordination-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Functional_Testing-1d4ed8?style=flat-square"/>
+<img src="https://img.shields.io/badge/User_Acceptance_Testing-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bug_Identification-6d28d9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Change_Management-047857?style=flat-square"/>
+<img src="https://img.shields.io/badge/Process_Improvement-065f46?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Prototyping-0e7490?style=flat-square"/>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+---
 
-**THE JOURNEY CONTINUES...**
+## 🛠️ HOW I TURN REQUIREMENTS INTO SOLUTIONS
 
-</div>
+```mermaid
+flowchart TD
+    A["🏢 Understand Business Needs"] --> B["📋 Gather Requirements"]
+    B --> C["🔍 Analyze Existing Processes"]
+    C --> D["🎨 Design Workflow & Prototype"]
+    D --> E["💻 Coordinate with Developers"]
+    E --> F["🧪 Functional Testing & UAT"]
+    F --> G{"Does It Meet Requirements?"}
+    G -- "No — Improve" --> C
+    G -- "Yes — Validate" --> H["🚀 Business-Ready Functionality"]
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:08090e,50:8b0000,100:143c70" width="100%"/>
+    style A fill:#7f1d1d,color:#ffffff,stroke:#f59e0b
+    style D fill:#991b1b,color:#ffffff,stroke:#f59e0b
+    style F fill:#374151,color:#ffffff,stroke:#f59e0b
+    style H fill:#14532d,color:#ffffff,stroke:#4ade80
