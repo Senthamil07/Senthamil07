@@ -1,58 +1,74 @@
+<!-- README.md — Replace YOUR_USERNAME with your GitHub username -->
 
 <div align="center">
 
-# Hey, I'm Senthamil selvan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:dc2626,100:1d4ed8&height=220&section=header&text=Senthamil%20Selvan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ERP%20Functional%20Consultant%20%7C%20Your%20Friendly%20Neighborhood%20Problem%20Solver&descAlignY=60&descSize=15" width="100%" />
 
-### 💻 Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=700&lines=ERP+Functional+Consultant;Business+Process+%7C+ERP+Implementation;Requirements+%7C+Testing+%7C+Documentation;With+great+power+comes+great+responsibility!" alt="Typing SVG" />
 
-Building ideas into digital experiences.
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer;Always+Learning+New+Things" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🕷️ About Me
 
-- 💻 Interested in web development and technology
-- 🌱 Learning new tools and building projects
-- 🎯 Focused on improving my development skills
-- 📫 Connect with me through my GitHub profile
+Hey there! I'm **Senthamil Selvan**, an **ERP Functional Consultant** passionate about connecting business needs with technology.
 
-## 🛠️ Tech Stack
+- 🕸️ Working on ERP functional processes and business workflows.
+- 🎯 Focused on requirement gathering, documentation, and testing.
+- 🔍 Interested in business process optimization and problem-solving.
+- 🚀 Always learning, building, and improving.
+- 🕷️ My philosophy: *With great responsibility comes great results.*
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
+## 🛠️ My Utility Belt
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+![ERP](https://img.shields.io/badge/ERP-Functional_Consulting-DC2626?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business-Analysis-1D4ED8?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-Tools-111827?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-UAT-7C3AED?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-F59E0B?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
+## 🎯 Current Missions
 
-<!--
-**Senthamil07/Senthamil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [ ] Improve ERP implementation and configuration skills.
+- [ ] Build reusable business-process documentation.
+- [ ] Explore automation and reporting tools.
+- [ ] Create practical projects that solve real business problems.
 
-Here are some ideas to get you started:
+## 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ef4444&icon_color=3b82f6&text_color=9ca3af" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=ef4444&fire=3b82f6&currStreakLabel=ef4444" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&color=ef4444&line=3b82f6&point=ffffff" width="100%" />
+
+</div>
+
+## 🕸️ My Working Style
+
+```text
+Understand the problem
+        ↓
+Gather business requirements
+        ↓
+Map the process
+        ↓
+Configure and validate
+        ↓
+Test, document, improve
+        ↓
+Deliver value 🚀
