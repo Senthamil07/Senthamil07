@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/hero-sky.svg" width="100%" alt="Animated superheroes flying over the city"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero-sky.svg" width="100%" alt="Animated superheroes flying over the city"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=3000&pause=900&color=FDE047&center=true&vCenter=true&width=850&lines=Translating+Business+Needs+into+ERP+Solutions;Designing+Workflows.+Squashing+Bugs.+Saving+the+Day.;With+great+requirements+comes+great+responsibility." alt="Typing intro"/>
 
@@ -27,7 +27,7 @@ I connect business users with development teams: requirement gathering, process 
 ## 🥊 ISSUE #2 — THE BUG BATTLE
 
 <div align="center">
-<img src="./assets/fight-scene.svg" width="100%" alt="Heroes fighting the Bug villain"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/fight-scene.svg" width="100%" alt="Heroes fighting the Bug villain"/>
 </div>
 
 Every release, a **Bug** shows up. Functional testing and UAT are how I send it flying.
@@ -117,7 +117,7 @@ T.J.S. Polytechnic College
 ## ⚙️ ISSUE #4 — THE SEVEN ERP DOMAINS
 
 <div align="center">
-<img src="./assets/squad-lineup.svg" width="100%" alt="Seven heroes, one per ERP domain"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/squad-lineup.svg" width="100%" alt="Seven heroes, one per ERP domain"/>
 </div>
 
 Production • Inserts • Painting • Assembly • Dispatch • Store & Inventory • Tender — I support each through requirement analysis, workflow coordination, and functional validation.
@@ -167,7 +167,7 @@ flowchart TD
 ## 🍌 BONUS EPISODE — EVEN HEROES SLIP
 
 <div align="center">
-<img src="./assets/comedy-scene.svg" width="100%" alt="Hero slips on a banana peel"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/comedy-scene.svg" width="100%" alt="Hero slips on a banana peel"/>
 </div>
 
 <div align="center">
