@@ -1,177 +1,142 @@
-<!-- Replace YOUR_GITHUB_USERNAME below. Keep the "assets" folder next to this README. -->
+<!-- Replace YOUR_GITHUB_USERNAME, YOUR_EMAIL and YOUR_LINKEDIN. No other files needed. -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero-sky.svg" width="100%" alt="Animated superheroes flying over the city"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d4aff,50:ff4d8d,100:ffb020&height=270&section=header&text=Senthamil%20Selvan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ERP%20Functional%20Consultant&descSize=22&descAlignY=60&animation=twinkling" width="100%" alt="Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=3000&pause=900&color=FDE047&center=true&vCenter=true&width=850&lines=Translating+Business+Needs+into+ERP+Solutions;Designing+Workflows.+Squashing+Bugs.+Saving+the+Day.;With+great+requirements+comes+great+responsibility." alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Turning+business+needs+into+ERP+solutions.;Designing+workflows+people+enjoy+using.;Bridging+business+users+and+developers.;Every+great+system+starts+with+a+clear+requirement." alt="Typing intro"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=dc2626&label=HERO+VIEWS" alt="Views"/>
+[![About](https://img.shields.io/badge/ABOUT-0f0f18?style=for-the-badge&labelColor=0f0f18&color=6d4aff)](#about)
+[![What I do](https://img.shields.io/badge/WHAT%20I%20DO-0f0f18?style=for-the-badge&labelColor=0f0f18&color=ff4d8d)](#what-i-do)
+[![Domains](https://img.shields.io/badge/DOMAINS-0f0f18?style=for-the-badge&labelColor=0f0f18&color=ffb020)](#seven-erp-domains)
+[![Journey](https://img.shields.io/badge/JOURNEY-0f0f18?style=for-the-badge&labelColor=0f0f18&color=14b8a6)](#journey)
+[![Contact](https://img.shields.io/badge/CONTACT-0f0f18?style=for-the-badge&labelColor=0f0f18&color=3b82f6)](#contact)
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6d4aff&label=VISITORS" alt="Views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d4aff,50:ff4d8d,100:ffb020&height=3&section=header" width="100%" alt=""/>
 
-## 💥 ISSUE #1 — ORIGIN STORY
+## About
 
-I'm **Senthamil Selvan S.**, an **ERP Functional Consultant** who turns real business problems into working ERP solutions.
+I’m **Senthamil Selvan S.**, an **ERP Functional Consultant** at **Meena Fibre Industry Private Limited**. I turn real business problems into working ERP solutions.
 
-I connect business users with development teams: requirement gathering, process analysis, workflow design, functional prototyping, testing, bug hunting, and continuous improvement.
+I connect business users with development teams: requirement gathering, process analysis, workflow design, functional prototyping, testing, bug hunting and continuous improvement. My background is in electrical and electronics engineering, with hands-on experience in administration and ERP functional consulting.
 
-> *"Every great system starts with understanding the people who use it."*
+> *“Every great system starts with understanding the people who use it.”*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d4aff,50:ff4d8d,100:ffb020&height=3&section=header" width="100%" alt=""/>
 
-## 🥊 ISSUE #2 — THE BUG BATTLE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/fight-scene.svg" width="100%" alt="Heroes fighting the Bug villain"/>
-</div>
-
-Every release, a **Bug** shows up. Functional testing and UAT are how I send it flying.
-
----
-
-## 🎬 ISSUE #3 — CAREER JOURNEY
+## What I do
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d4aff,100:a78bfa&height=150&section=header&text=Requirement%20Gathering&fontSize=23&fontColor=ffffff&desc=Turning%20business%20needs%20into%20clear%20specs&descSize=13&descAlignY=68" width="100%" alt="Requirement Gathering"/></td>
+<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d8d,100:fb7185&height=150&section=header&text=Process%20Analysis&fontSize=23&fontColor=ffffff&desc=Finding%20gaps%20in%20how%20work%20flows%20today&descSize=13&descAlignY=68" width="100%" alt="Process Analysis"/></td>
+<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb020,100:ff7a18&height=150&section=header&text=Workflow%20Design&fontSize=23&fontColor=ffffff&desc=ERP%20flows%20people%20enjoy%20using&descSize=13&descAlignY=68" width="100%" alt="Workflow Design"/></td>
+</tr>
+<tr>
+<td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:6d4aff&height=150&section=header&text=AI%20Prototyping&fontSize=23&fontColor=ffffff&desc=Concepts%20built%20with%20Google%20AI%20Studio&descSize=13&descAlignY=68" width="100%" alt="AI Prototyping"/></td>
+<td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:6d4aff&height=150&section=header&text=Dev%20Coordination&fontSize=23&fontColor=ffffff&desc=Bridging%20business%20and%20tech%20teams&descSize=13&descAlignY=68" width="100%" alt="Developer Coordination"/></td>
+<td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d8d,100:ffb020&height=150&section=header&text=Testing%20and%20UAT&fontSize=23&fontColor=ffffff&desc=Bugs%20found%20before%20go-live&descSize=13&descAlignY=68" width="100%" alt="Testing and UAT"/></td>
+</tr>
+</table>
 
-**2026 — PRESENT**
+<p align="center">
+<img src="https://img.shields.io/badge/Change_Management-0f0f18?style=for-the-badge&labelColor=0f0f18&color=047857"/>
+<img src="https://img.shields.io/badge/Bug_Identification-0f0f18?style=for-the-badge&labelColor=0f0f18&color=be123c"/>
+<img src="https://img.shields.io/badge/Process_Improvement-0f0f18?style=for-the-badge&labelColor=0f0f18&color=ca8a04"/>
+<img src="https://img.shields.io/badge/Functional_Requirement_Analysis-0f0f18?style=for-the-badge&labelColor=0f0f18&color=7c3aed"/>
+</p>
 
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d4aff,50:ff4d8d,100:ffb020&height=3&section=header" width="100%" alt=""/>
+
+## Seven ERP domains
+
+<p align="center">
+<img src="https://img.shields.io/badge/01-PRODUCTION-6d4aff?style=for-the-badge&labelColor=0f0f18"/>
+<img src="https://img.shields.io/badge/02-INSERTS-8b5cf6?style=for-the-badge&labelColor=0f0f18"/>
+<img src="https://img.shields.io/badge/03-PAINTING-ec4899?style=for-the-badge&labelColor=0f0f18"/>
+<img src="https://img.shields.io/badge/04-ASSEMBLY-ff4d8d?style=for-the-badge&labelColor=0f0f18"/>
+<img src="https://img.shields.io/badge/05-DISPATCH-f97316?style=for-the-badge&labelColor=0f0f18"/>
+<img src="https://img.shields.io/badge/06-STORE%20%26%20INVENTORY-ffb020?style=for-the-badge&labelColor=0f0f18"/>
+<img src="https://img.shields.io/badge/07-TENDER-14b8a6?style=for-the-badge&labelColor=0f0f18"/>
+</p>
+
+I support each area through requirement analysis, workflow coordination and functional validation.
+
+## How I work
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1e1b4b','primaryTextColor':'#fff','lineColor':'#a78bfa'}}}%%
+flowchart LR
+    A["Understand<br/>needs"] --> B["Gather<br/>requirements"] --> C["Analyze<br/>processes"] --> D["Design &<br/>prototype"]
+    D --> E["Coordinate<br/>developers"] --> F["Test<br/>& UAT"] --> G{"Meets<br/>requirement?"}
+    G -- "No" --> C
+    G -- "Yes" --> H["Business-ready"]
+    style A fill:#6d4aff,color:#fff,stroke:#a78bfa
+    style D fill:#ff4d8d,color:#fff,stroke:#fb7185
+    style F fill:#ffb020,color:#111,stroke:#fde68a
+    style H fill:#14b8a6,color:#fff,stroke:#5eead4
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d4aff,50:ff4d8d,100:ffb020&height=3&section=header" width="100%" alt=""/>
+
+## Journey
+
+<table>
+<tr>
+<td width="22%" align="center"><b>2026 — Present</b></td>
 <td>
 
-### 🔥 ERP Functional Consultant
-**Meena Fibre Industry Private Limited**
+**ERP Functional Consultant** · Meena Fibre Industry Private Limited
 
 - Gather and analyze ERP requirements across seven functional areas.
-- Study existing business processes and translate them into ERP workflows.
-- Coordinate between business users and developers.
-- Create functional prototypes and UI concepts using AI-assisted tools, including Google AI Studio.
-- Coordinate module development and clarify requirements.
-- Perform functional testing and User Acceptance Testing (UAT).
-- Identify bugs, missing fields, validation gaps, and workflow issues.
-- Manage change requests and validate completed functionality.
-- Suggest practical improvements to business processes.
+- Translate existing business processes into ERP workflows.
+- Create prototypes and UI concepts with AI-assisted tools, including Google AI Studio.
+- Coordinate module development; run functional testing and UAT.
+- Identify bugs, missing fields and validation gaps; manage change requests.
 
 </td>
 </tr>
 <tr>
-<td align="center">
-
-**MAY 2024 — SEP 2024**
-
-</td>
+<td align="center"><b>May 2024 — Sep 2024</b></td>
 <td>
 
-### ⚡ Admin Executive — Contract
-**Genius HR Tech**
+**Admin Executive (Contract)** · Genius HR Tech
+Client: Vedantu Innovation Private Limited
 
-Client / Work Location: **Vedantu Innovation Private Limited**
-
-- Supported administrative and operational coordination.
-- Maintained records and documentation.
-- Coordinated with internal teams and stakeholders.
-- Supported day-to-day operational requirements.
+- Supported administrative and operational coordination, records and documentation.
 
 </td>
 </tr>
 <tr>
-<td align="center">
-
-**2021 — 2024**
-
-</td>
+<td align="center"><b>2021 — 2024</b></td>
 <td>
 
-### 🎓 Bachelor of Technology
-**Electrical and Electronics Engineering (B.Tech EEE)**
-
-Dr. M.G.R. Educational and Research Institute
+**B.Tech, Electrical and Electronics Engineering** · Dr. M.G.R. Educational and Research Institute
 
 </td>
 </tr>
 <tr>
-<td align="center">
-
-**2018 — 2021**
-
-</td>
+<td align="center"><b>2018 — 2021</b></td>
 <td>
 
-### 🎓 Diploma
-**Electrical and Electronics Engineering (DEEE)**
-
-T.J.S. Polytechnic College
+**Diploma, Electrical and Electronics Engineering** · T.J.S. Polytechnic College
 
 </td>
 </tr>
 </table>
 
----
-
-## ⚙️ ISSUE #4 — THE SEVEN ERP DOMAINS
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/squad-lineup.svg" width="100%" alt="Seven heroes, one per ERP domain"/>
-</div>
-
-Production • Inserts • Painting • Assembly • Dispatch • Store & Inventory • Tender — I support each through requirement analysis, workflow coordination, and functional validation.
-
----
-
-## 🧠 ISSUE #5 — SUPERPOWERS
+## Contact
 
 <p align="center">
-<img src="https://img.shields.io/badge/ERP_Functional_Consulting-dc2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Requirement_Gathering-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Process_Analysis-ea580c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERP_Workflow_Design-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Functional_Prototyping-db2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Developer_Coordination-0891b2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Functional_Testing-16a34a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/User_Acceptance_Testing-ca8a04?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bug_Identification-be123c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Change_Management-047857?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Process_Improvement-92400e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI--Assisted_Prototyping-6d28d9?style=for-the-badge"/>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-ME-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f18"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f18"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-6d4aff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f18"/></a>
 </p>
 
----
-
-## 🛠️ ISSUE #6 — THE MISSION PLAN
-
-```mermaid
-flowchart TD
-    A["🏢 Understand Business Needs"] --> B["📋 Gather Requirements"]
-    B --> C["🔍 Analyze Existing Processes"]
-    C --> D["🎨 Design Workflow & Prototype"]
-    D --> E["💻 Coordinate with Developers"]
-    E --> F["🧪 Functional Testing & UAT"]
-    F --> G{"Does It Meet Requirements?"}
-    G -- "No — Improve" --> C
-    G -- "Yes — Validate" --> H["🚀 Business-Ready Functionality"]
-
-    style A fill:#dc2626,color:#ffffff,stroke:#fde047
-    style D fill:#2563eb,color:#ffffff,stroke:#fde047
-    style F fill:#7c3aed,color:#ffffff,stroke:#fde047
-    style H fill:#14532d,color:#ffffff,stroke:#4ade80
-```
-
----
-
-## 🍌 BONUS EPISODE — EVEN HEROES SLIP
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/comedy-scene.svg" width="100%" alt="Hero slips on a banana peel"/>
-</div>
-
-<div align="center">
-
-*"I am not just a consultant. I am the one who finds the missing field before go-live."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb020,50:ff4d8d,100:6d4aff&height=120&section=footer" width="100%" alt="Footer"/>
